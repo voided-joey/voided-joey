@@ -3,7 +3,7 @@
 <body>
 
 <h1 style="text-align:center;" >My About Me</h1>
-<p style="text-align:center;" >Hi I'm Joey! My pronouns are they/them. I have an interest in learning html web design. Check out my strawpage!</p>
+<p style="text-align:center;" >Hi I'm Joey! My pronouns are He/Him. I have an interest in learning html web design. Check out my pages!</p>
 
 </body>
 </html> 
